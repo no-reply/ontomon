@@ -10,6 +10,9 @@ Resources
 
 ### Tutorials
 
+#### Git
+  - [Git (the book)](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+
 #### Julia
   - [Julia Getting Started](http://lectures.quantecon.org/jl/getting_started.html)
   - [A Deep Introduction to Julia for Data Science and Scientific Computing](http://ucidatascienceinitiative.github.io/IntroToJulia/)
