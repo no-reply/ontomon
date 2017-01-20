@@ -10,8 +10,10 @@ Resources
 
 ### Tutorials
 
+#### Julia
   - [Julia Getting Started](http://lectures.quantecon.org/jl/getting_started.html)
   - [A Deep Introduction to Julia for Data Science and Scientific Computing](http://ucidatascienceinitiative.github.io/IntroToJulia/)
+  - [iJulia](https://github.com/JuliaLang/IJulia.jl)
 
 ### Models
 
