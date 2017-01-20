@@ -8,6 +8,11 @@ __Gotta Catch 'em All__ --- Data collection & analysis projects for Knowledge Or
 Resources
 ---------
 
+### Tutorials
+
+  - [Julia Getting Started](http://lectures.quantecon.org/jl/getting_started.html)
+  - [A Deep Introduction to Julia for Data Science and Scientific Computing](http://ucidatascienceinitiative.github.io/IntroToJulia/)
+
 ### Models
 
   - [SKOS Primer](https://www.w3.org/TR/skos-primer/)
